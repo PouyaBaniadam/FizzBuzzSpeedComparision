@@ -1,0 +1,7 @@
+Results in order of speed (1,000,000 iterations):
+
+Language          |        Time           | Total lines of code
+
+Go                | 00:00:06.024535       |         29
+Dart              | 00:00:23.560554       |         19
+Python            | 00:00:27.187433       |         17
